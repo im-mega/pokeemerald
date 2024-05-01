@@ -4410,6 +4410,26 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NAKOTA_CITY",
+      "name": "NakotaCity_Layout",
+      "width": 46,
+      "height": 35,
+      "primary_tileset": "gTileset_exterior_green",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NakotaCity/border.bin",
+      "blockdata_filepath": "data/layouts/NakotaCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE01",
+      "name": "Route01_Layout",
+      "width": 50,
+      "height": 20,
+      "primary_tileset": "gTileset_exterior_green",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route01/border.bin",
+      "blockdata_filepath": "data/layouts/Route01/map.bin"
     }
   ]
 }
