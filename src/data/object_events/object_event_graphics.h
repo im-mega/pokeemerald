@@ -373,3 +373,10 @@ const u32 gObjectEventPic_Lugia[] = INCBIN_U32("graphics/object_events/pics/poke
 const u16 gObjectEventPal_Lugia[] = INCBIN_U16("graphics/object_events/palettes/lugia.gbapal");
 const u32 gObjectEventPic_HoOh[] = INCBIN_U32("graphics/object_events/pics/pokemon/ho_oh.4bpp");
 const u16 gObjectEventPal_HoOh[] = INCBIN_U16("graphics/object_events/palettes/ho_oh.gbapal");
+
+// Custom Object Events go here!
+
+//Playable Model A
+const u16 gObjectEventPal_Playable_A[] = INCBIN_U16("graphics/object_events/pics/people/playable_a/walking.gbapal");
+
+const u32 gObjectEventPic_Playable_A_NormalRunning[] = INCBIN_U32("graphics/object_events/pics/people/playable_a/walking.4bpp", "graphics/object_events/pics/people/playable_a/running.4bpp");
